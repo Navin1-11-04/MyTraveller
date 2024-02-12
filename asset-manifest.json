@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MyTraveller/static/css/main.d76f1262.css",
+    "main.js": "/MyTraveller/static/js/main.11811633.js",
+    "static/media/spain.jpg": "/MyTraveller/static/media/spain.3adb5ca5c962ad0b567a.jpg",
+    "static/media/greenland.jpg": "/MyTraveller/static/media/greenland.eb9d75571b9c0af3cbca.jpg",
+    "static/media/canada.jpg": "/MyTraveller/static/media/canada.bb6439ee65b5b24930d8.jpg",
+    "static/media/africa.jpg": "/MyTraveller/static/media/africa.45fc2495a9d240af17b2.jpg",
+    "index.html": "/MyTraveller/index.html",
+    "main.d76f1262.css.map": "/MyTraveller/static/css/main.d76f1262.css.map",
+    "main.11811633.js.map": "/MyTraveller/static/js/main.11811633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76f1262.css",
+    "static/js/main.11811633.js"
+  ]
+}
