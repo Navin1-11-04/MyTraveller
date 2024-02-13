@@ -7,15 +7,16 @@ import image1 from '../assets/greenland.jpg';
 import image2 from '../assets/spain.jpg';
 import image3 from '../assets/canada.jpg';
 import image4 from '../assets/africa.jpg';
+import bars from '../assets/bars-solid.svg'
 import './index.css';
 function Index() {
   return (
     <div className="landing">
-      <nav className="navbar navbar-expand-lg pt-lg-4 pb-lg-4 pt-3 pb-3">
+      <nav className="navbar navbar-expand-lg pt-lg-4 pb-lg-4 pt-2 pb-2">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">Navbar</a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span className="navbar-toggler-icon"></span>
+          <img src={bars} alt=".."/>
           </button>
           <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul className="navbar-nav mx-lg-2">
@@ -70,7 +71,7 @@ function Index() {
                 </div>
             </div>
         </div>
-        <div className="arrows">
+        <div className="arrows-small">
             <button id="prev">◁</button>
             <button id="next">▷</button>
         </div>
